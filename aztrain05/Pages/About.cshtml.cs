@@ -12,7 +12,7 @@ namespace aztrain05.Pages
 
         public void OnGet()
         {
-            Message = "This is test number 2.";
+            Message = "This is test number 3.";
         }
     }
 }
